@@ -5,8 +5,9 @@ string c = "word";
 char d = '@';
 bool e = true;
 Console.WriteLine("My number is " + a);
-Console.WriteLine($"My number is {a}" );
+Console.WriteLine($"My number is {a}" ); */
 
+/*
 Console.Write("Введите первое число: ");
 int num1  = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите второе число: ");
@@ -33,10 +34,13 @@ while(current <= number)
     current++;
 }
 */
+
 // Задача 3 Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает последнюю цифру этого числа.
 
+/*
 Console.WriteLine("Введите трехзначное число: ");
 int n = Convert.ToInt32(Console.ReadLine());
 
 int result = n % 10;
 Console.WriteLine($"Последнее число {n} is {result}");
+*/
